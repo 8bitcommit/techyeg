@@ -16,7 +16,7 @@ Or use the form below:
 >
   <label>
     Your Name:
-    <input type="name" name="name">
+    <input type="text" name="name">
   </label>
   <label>
     Your Email:
