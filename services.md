@@ -9,3 +9,7 @@ We offer:
 - Wi-Fi and home networking
 - Smart home setup
 - Data backup and recovery
+- TV and soundbar mounting and setup
+- smart phone and tablet help
+- streaming and cloud services assistance
+
