@@ -13,29 +13,30 @@ Or use the form below:
 <form
   action="https://formspree.io/f/mjkenveo"
   method="POST"
+  class="form-group"
 >
-  <label>
-    Your Name:<br>
-    <input type="text" name="name" required>
-  </label><br><br>
+  <div class="form-group">
+    <label for="name">Your Name</label>
+    <input id="name" type="text" name="name" class="form-control" required>
+  </div>
 
-  <label>
-    Your Email:<br>
-    <input type="email" name="_replyto" required>
-  </label><br><br>
+  <div class="form-group">
+    <label for="email">Your Email</label>
+    <input id="email" type="email" name="_replyto" class="form-control" required>
+  </div>
 
-  <label>
-    Your Phone #:<br>
-    <input type="tel" name="phone">
-  </label><br><br>
+  <div class="form-group">
+    <label for="phone">Your Phone #</label>
+    <input id="phone" type="tel" name="phone" class="form-control">
+  </div>
 
-  <label>
-    Your Message:<br>
-    <textarea name="message" rows="6" required></textarea>
-  </label><br><br>
+  <div class="form-group">
+    <label for="message">Your Message</label>
+    <textarea id="message" name="message" rows="6" class="form-control" required></textarea>
+  </div>
 
-  <!-- optional redirect after submit -->
   <input type="hidden" name="_redirect" value="https://techyeg.com/thanks/">
 
-  <button type="submit">Send</button>
+  <button type="submit" class="btn btn--primary">Send</button>
 </form>
+
