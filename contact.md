@@ -3,8 +3,8 @@ layout: single
 title: "Contact"
 permalink: /contact/
 ---
-📞 Call or text: (780)  
-📧 Email: KearseyA@proton.me  
+📞 Call or text: (780) 690-4438
+📧 Email: TechYEG@proton.me  
 
 Or use the form below:
 
