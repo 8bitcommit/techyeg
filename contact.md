@@ -10,33 +10,39 @@ Or use the form below:
 
 
 <!-- Contact Form -->
-<form
-  action="https://formspree.io/f/mjkenveo"
-  method="POST"
-  class="form-group"
->
-  <div class="form-group">
-    <label for="name">Your Name</label>
-    <input id="name" type="text" name="name" class="form-control" required>
-  </div>
+<div class="container">
+  <h1>Contact TechYEG</h1>
+  <form target="_blank" action="https://formsubmit.co/kearseya@proton.me" method="POST">
+    
+    <!-- Hidden settings -->
+    <input type="hidden" name="_captcha" value="false">
+    <input type="hidden" name="_next" value="https://techyeg.com/thanks/">
 
-  <div class="form-group">
-    <label for="email">Your Email</label>
-    <input id="email" type="email" name="_replyto" class="form-control" required>
-  </div>
+    <div class="form-group">
+      <div class="form-row">
+        <div class="col">
+          <label for="name">Full Name</label>
+          <input id="name" type="text" name="name" class="form-control" placeholder="Your Name" required>
+        </div>
+        <div class="col">
+          <label for="email">Email Address</label>
+          <input id="email" type="email" name="email" class="form-control" placeholder="Your Email" required>
+        </div>
+      </div>
+    </div>
 
-  <div class="form-group">
-    <label for="phone">Your Phone #</label>
-    <input id="phone" type="tel" name="phone" class="form-control">
-  </div>
+    <div class="form-group">
+      <label for="phone">Phone Number</label>
+      <input id="phone" type="tel" name="phone" class="form-control" placeholder="Optional">
+    </div>
 
-  <div class="form-group">
-    <label for="message">Your Message</label>
-    <textarea id="message" name="message" rows="6" class="form-control" required></textarea>
-  </div>
+    <div class="form-group">
+      <label for="message">Your Message</label>
+      <textarea id="message" placeholder="How can we help you?" class="form-control" name="message" rows="6" required></textarea>
+    </div>
 
-  <input type="hidden" name="_redirect" value="https://techyeg.com/thanks/">
+    <button type="submit" class="btn btn--primary btn-lg">Send</button>
+  </form>
+</div>
 
-  <button type="submit" class="btn btn--primary">Send</button>
-</form>
 
