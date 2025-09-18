@@ -10,6 +10,15 @@ We offer:
 - Smart home setup
 - Data backup and recovery
 - TV and soundbar mounting and setup
-- smart phone and tablet help
-- streaming and cloud services assistance
+- Smart phone and tablet help
+- Streaming and cloud services assistance
 
+
+**NEW**
+Certified Electrician for Commercial and Residential Services:
+- Smart & Decorative Lighting Installation
+- Switch/Outlet Testing, Relocation, & Replacement
+- Energy Efficiency Audits
+- LED Retrofitting & Upgrades
+- Security Lighting Solutions
+- Power Surge Protection
