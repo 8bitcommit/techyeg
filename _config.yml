@@ -164,6 +164,8 @@ footer:
 
 # Reading Files
 include:
+# Include custom CSS
+  - assets/css/custom.css
   - .htaccess
   - _pages
 exclude:
