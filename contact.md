@@ -12,7 +12,7 @@ Or use the form below:
 <!-- Contact Form -->
 <div class="container">
   <h1>Contact TechYEG</h1>
-  <form target="_blank" action="https://formsubmit.co/kearseya@proton.me" method="POST">
+  <form target="_blank" action="https://formsubmit.co/d22049e5c0f4ffd882c380cc0d229b8e" method="POST">
     
     <!-- Hidden settings -->
     <input type="hidden" name="_captcha" value="false">
