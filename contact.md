@@ -3,8 +3,9 @@ layout: single
 title: "Contact"
 permalink: /contact/
 ---
-📞 Call or text: (780) 690-4438
-📧 Email: TechYEG@proton.me  
+
+📞 [Call or Text: (780) 690-4438](tel:7806904438)  
+📧 [Email: TechYEG@proton.me](mailto:TechYEG@proton.me)
 
 Or use the form below:
 
