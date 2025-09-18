@@ -8,6 +8,7 @@ We Offer:
 - Virus and Malware Cleanup
 - Wi-Fi and Home Networking
 - Smart Home Setup
+- Doorbell and Security Cameras
 - Data Backup and Recovery
 - TV and Soundbar Mounting and Setup
 - Smartphone and Tablet Help
@@ -17,6 +18,7 @@ We Offer:
 - Software Installation & Configuration
 
 **NEW**  
+
 Certified Electrician for Commercial and Residential Services:  
 - Smart & Decorative Lighting Installation  
 - Switch/Outlet Testing, Relocation, & Replacement  
