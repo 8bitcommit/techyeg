@@ -3,22 +3,24 @@ layout: single
 title: "Services"
 permalink: /services/
 ---
-We offer:
-- Computer and laptop repair
-- Virus and malware cleanup
-- Wi-Fi and home networking
-- Smart home setup
-- Data backup and recovery
-- TV and soundbar mounting and setup
-- Smart phone and tablet help
-- Streaming and cloud services assistance
+We Offer:
+- Computer and Laptop Repair
+- Virus and Malware Cleanup
+- Wi-Fi and Home Networking
+- Smart Home Setup
+- Data Backup and Recovery
+- TV and Soundbar Mounting and Setup
+- Smartphone and Tablet Help
+- Streaming and Cloud Services Assistance
+- System Tune-Ups and Optimization
+- Data Migration
+- Software Installation & Configuration
 
-
-**NEW**
-Certified Electrician for Commercial and Residential Services:
-- Smart & Decorative Lighting Installation
-- Switch/Outlet Testing, Relocation, & Replacement
-- Energy Efficiency Audits
-- LED Retrofitting & Upgrades
-- Security Lighting Solutions
-- Power Surge Protection
+**NEW**  
+Certified Electrician for Commercial and Residential Services:  
+- Smart & Decorative Lighting Installation  
+- Switch/Outlet Testing, Relocation, & Replacement  
+- Energy Efficiency Audits  
+- LED Retrofitting & Upgrades  
+- Security Lighting Solutions  
+- Power Surge Protection  
