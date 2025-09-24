@@ -9,17 +9,17 @@ Your on-call tech support for computers, networks, and smart devices—delivered
 <div style="display: flex; justify-content: space-between; gap: 20px; text-align: center; margin-top: 2rem;">
 
   <div style="flex: 1;">
-    <img src="\assets\images\Tv-mount.jpg" alt="TV_Mount" style="width:100%; max-width:250px; border-radius:8px;">
+    <img src="/assets/images/Tv-mount.jpg" alt="TV_Mount" style="width:100%; max-width:250px; border-radius:8px;">
     <p><strong>TV & Smarthome</strong><br>Seamless setup of smart TVs, security, and home automation.</p>
   </div>
 
   <div style="flex: 1;">
-    <img src="\assets\images\Network.jpg" alt="Network Setup" style="width:100%; max-width:250px; border-radius:8px;">
+    <img src="/assets/images/Network.jpg" alt="Network Setup" style="width:100%; max-width:250px; border-radius:8px;">
     <p><strong>Wi-Fi & Networking</strong><br>Reliable connections for your home or office — no dead zones.</p>
   </div>
 
   <div style="flex: 1;">
-    <img src="\assets\images\Speakers.jpg" alt="Home Theatre Setup" style="width:100%; max-width:250px; border-radius:8px;">
+    <img src="/assets/images/Speakers.jpg" alt="Home Theatre Setup" style="width:100%; max-width:250px; border-radius:8px;">
     <p><strong>Audio Visual</strong><br>Custom home theatre integration</p>
   </div>
 
