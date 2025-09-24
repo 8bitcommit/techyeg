@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "TechYEG"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "TechYEG"
 description              : "Providing cutting-edge technology consulting and services to elevate your home and business."
 url                      : "https://techyeg.com"
 baseurl                  :  "" # the subpath of your site, e.g. /blog
@@ -82,7 +82,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : google945710f081cd2eb9.html
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
