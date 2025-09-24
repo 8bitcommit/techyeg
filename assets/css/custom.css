@@ -9,6 +9,6 @@
 
 /* Make navbar logo larger */
 .masthead .site-logo img {
-  max-height: 70px; /* adjust size */
+  max-height: 90px; /* adjust size */
   width: auto;
 }
