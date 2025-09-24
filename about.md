@@ -42,7 +42,11 @@ Your on-call tech support for computers, networks, and smart devices—delivered
 
   <div class="service-card">
     <img src="{{ '/assets/images/Speakers.jpg' | relative_url }}" alt="Home Theatre Setup">
-    <p><strong>Audio Visual</strong><br>Custom home theatre integration</p>
+    <p><strong>Audio Visual</strong><br>Custom home theatre integration.</p>
+  </div>
+  <div class="service-card">
+    <img src="{{ '/assets/images/secure.jpg' | relative_url }}" alt="security">
+    <p><strong>Network Security Cameras</strong><br>Professional installation for reliable 24/7 coverage.</p>
   </div>
 
 </div>
