@@ -9,7 +9,7 @@ header:
   actions:
     - label: "Book a Tech Visit"
       url: "/contact/"
-excerpt: “Practical IT support and smart tech solutions for homes and businesses in Edmonton.” #"Your local tech handyman — fixing computers, networks, and gadgets across Edmonton."
+excerpt: Practical IT support and smart tech solutions for homes and businesses in Edmonton. #"Your local tech handyman — fixing computers, networks, and gadgets across Edmonton."
 feature_row:
   - image_path: /assets/images/services.png
     alt: "Services"
